@@ -18,7 +18,9 @@
     "url": "https://github.com/sofiamejiamuro/shopping-cart/issues"
   },
   "homepage": "https://github.com/sofiamejiamuro/shopping-cart#readme",
-  "dependencies": {},
+  "dependencies": {
+    "axios": "^0.20.0"
+  },
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/preset-env": "^7.11.5",
