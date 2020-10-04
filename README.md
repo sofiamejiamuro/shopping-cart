@@ -21,7 +21,7 @@ dependencies --> needed at runtime
 
 devDependencies --> needed during the development phase
 
-**Webpck** configuration. webpack asset bubdler
+**Webpack** configuration. webpack asset bubdler
 
 4 core concepts
 
